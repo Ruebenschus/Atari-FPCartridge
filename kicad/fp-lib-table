@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "ULX3S")(type "KiCad")(uri "${KIPRJMOD}/ULX3S_KiCad_Library/ULX3S.pretty")(options "")(descr ""))
+)
