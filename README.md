@@ -390,6 +390,8 @@ But guys, imagine how blown away I was when my STacy first bootet from a debug
 cartridge I loaded into “my” FPGA and that it was possible to ask AI to
 “generate a 68000 binary that beeps the speaker” is actually working 🤩🤩🤩 You
 can use this to create your own code and load it on your Atari.  
+
+It can also be used to actively readout real cartridges and store their content on the FPGA and readout over USB...
   
 ![PCB](Fotos/pcb.jpeg)
 
